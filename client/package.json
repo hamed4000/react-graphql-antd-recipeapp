@@ -21,7 +21,7 @@
     "styled-components": "^5.0.1",
     "@ckeditor/ckeditor5-build-classic": "^17.0.0",
     "@ckeditor/ckeditor5-react": "^2.1.0",
-    "axios": "0.19.2"
+    "axios": "0.21.1"
   },
   "scripts": {
     "start": "react-scripts start",
